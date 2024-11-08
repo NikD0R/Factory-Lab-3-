@@ -180,7 +180,7 @@ public static class Program
         // Виведення всіх записів
         report.PrintAllRecords();
 
-        // Виведення підсумкових значень
+        // Виведення підсумкових значень і додавання програми на гітхаб
         report.PrintTotals();
     }
 }
